@@ -1,0 +1,550 @@
+Welcome to the Ticketing System !
+Enter The Total Number Of Tickets : 
+Enter Ticket Release Rate : 
+Enter Customer Ticket Retrieval Rate : 
+Enter Maximum Ticket Capacity : 
+Round 1 :
+Total Tickets : 3
+Vendor Release Rate : 1Tickets / Second
+Customer Retrieval Rate : 1Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 1 tickets. Total tickets: 1
+Added 1 tickets. Total tickets: 2
+ [ vendor 1 ] added 1 tickets.
+ [ vendor 1 ] added 1 tickets.
+Removed 1 tickets. Remaining tickets: 1
+Removed 1 tickets. Remaining tickets: 0
+Added 1 tickets. Total tickets: 1
+[Customer 1] retrieved 1 tickets.
+[Customer 2] retrieved 1 tickets.
+Added 1 tickets. Total tickets: 2
+ [ vendor 2 ] added 1 tickets.
+ [ vendor 2 ] added 1 tickets.
+Removed 1 tickets. Remaining tickets: 1
+[Customer 1] retrieved 1 tickets.
+Removed 1 tickets. Remaining tickets: 0
+[Customer 2] retrieved 1 tickets.
+Round 2 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 3 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 4 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 5 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 6 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 7 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 8 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 9 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 10 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 11 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 12 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 13 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 14 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 15 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 16 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 17 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 18 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 19 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+Round 20 :
+Total Tickets : 3
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 3Tickets
+Added 0 tickets. Total tickets: 0
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 0
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 0
+[Customer 2] retrieved 0 tickets.
+All Tickets Have Been Sold, System Executed
+Welcome to the Ticketing System !
+Enter The Total Number Of Tickets : 
+Enter Ticket Release Rate : 
+Enter Customer Ticket Retrieval Rate : 
+Enter Maximum Ticket Capacity : 
+Round 1 :
+Added 2 tickets. Total tickets: 2
+Total Tickets : 10
+ [ vendor 1 ] added 2 tickets.
+Removed 2 tickets. Remaining tickets: 0
+Vendor Release Rate : 2Tickets / Second
+[Customer 2] retrieved 2 tickets.
+Removed all available tickets. Remaining tickets: 0
+Customer Retrieval Rate : 2Tickets / Seconds
+Added 2 tickets. Total tickets: 2
+[Customer 1] retrieved 2 tickets.
+ [ vendor 2 ] added 2 tickets.
+Maximum Ticket Capacity : 5Tickets
+Added 2 tickets. Total tickets: 4
+ [ vendor 1 ] added 2 tickets.
+Removed 2 tickets. Remaining tickets: 2
+[Customer 1] retrieved 2 tickets.
+Removed 2 tickets. Remaining tickets: 0
+[Customer 2] retrieved 2 tickets.
+Added 1 tickets. Total tickets: 1
+Round 2 :
+ [ vendor 1 ] added 1 tickets.
+Added 1 tickets. Total tickets: 2
+Total Tickets : 10
+ [ vendor 2 ] added 1 tickets.
+Vendor Release Rate : 1Tickets / Second
+Customer Retrieval Rate : 1Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 1 tickets. Total tickets: 3
+ [ vendor 1 ] added 1 tickets.
+Added 1 tickets. Total tickets: 4
+ [ vendor 2 ] added 1 tickets.
+Removed 1 tickets. Remaining tickets: 3
+[Customer 1] retrieved 1 tickets.
+Removed 1 tickets. Remaining tickets: 2
+[Customer 2] retrieved 1 tickets.
+Round 3 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 4 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 5 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 6 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 7 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 8 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 9 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 10 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 11 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 12 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 13 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 14 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 15 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 16 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 17 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 18 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 19 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+Round 20 :
+Total Tickets : 10
+Vendor Release Rate : 0Tickets / Second
+Customer Retrieval Rate : 0Tickets / Seconds
+Maximum Ticket Capacity : 5Tickets
+Added 0 tickets. Total tickets: 2
+ [ vendor 1 ] added 0 tickets.
+Added 0 tickets. Total tickets: 2
+ [ vendor 2 ] added 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 1] retrieved 0 tickets.
+Removed 0 tickets. Remaining tickets: 2
+[Customer 2] retrieved 0 tickets.
+All Tickets Have Been Sold, System Executed
